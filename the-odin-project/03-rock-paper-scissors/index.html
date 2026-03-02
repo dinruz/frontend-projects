@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕹️</text></svg>">
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Rock-Paper-Scissors</title>
+</head>
+<body>
+    <div id="title">
+        <h1> ROCK-PAPER-SCISSORS</h1> 
+    </div>
+
+    <div class="wrap">
+        <div id="rules">
+
+        <p id="newGame">🕹️ NEW GAME 🕹️</p>
+
+         <h2>RULES</h2>
+    
+     <p> <h3>🟡 It's you vs. Machine!</h3>
+        This is a simple three-choice game. <br>
+         You will play against the PC until one of you wins the match. </p> 
+             
+     <h3>🟡  The Logic</h3>
+    <p>In each round, choose one of three hand shapes. <br>
+        Each shape can beat only one other shape :</p>
+    <ul>
+        <li>Rock beats Scissors(<strong>1 pt.</strong>) </li>
+        <li>Scissors beats Paper(<strong>1 pt.</strong>) </li>
+        <li>Paper beats Rock(<strong>1 pt.</strong>) </li>
+        <li> Matching moves - tie (<strong>0 pts.</strong>)</li>
+    </ul>
+     
+    <h3>🟡  The Winner</h3>
+    <p>
+        The first player to reach <strong>5 points</strong> wins the game. Good Luck!🍀<br>
+     
+    </p> 
+    
+ </div>
+
+    <div id="main">
+
+
+    <div id="choices">
+    
+    <div id="yourChoice">
+    <h2>YOU</h2>
+
+    <img src="./assets/media/rock.png" id="rock" alt="rock">
+    <img src="./assets/media/paper.png" id="paper" alt="paper">
+    <img src="./assets/media/scissors.png" id="scissors" alt="scissors">
+    </div> 
+    
+    <div id="pcChoice">
+    <h2>PC</h2>
+    <img id="pcImg" src="./assets/media/pc.gif" alt="?">
+    </div>
+</div>
+ 
+ <div id="results">
+<div id="result">
+        <h2>RESULTS</h2>
+        <p>Round <span id="count">1</span>: <em><span id="message"></span></em></p>
+        
+         <table>
+            <tr><th> HUMAN</th> <td><span id="humanScore">0</span>  points</td></tr>
+            <tr><th> PC</th> <td><span id="pcScore">0</span>  points</td></tr>                     
+         </table>
+        
+</div>
+<div id="win">
+ <h2>THE WINNER:</h2>
+  <p id="winner"> ? </p>
+   <p id="funfact">Reveal Funfact 💡</p> 
+</div>
+
+
+</div>
+
+</div> 
+
+ </div>
+
+</div>  
+
+
+  
+    <div id="footer">
+        <p>Project assigned by <a href ="https://www.theodinproject.com/"  target="_blank" rel="noopener noreferrer">The Odin Project</a>.👾</p>
+    </div>
+    
+</body>
+</html>

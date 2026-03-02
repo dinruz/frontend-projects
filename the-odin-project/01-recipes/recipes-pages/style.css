@@ -1,0 +1,87 @@
+body{
+    background-color: wheat;
+}
+
+
+
+.intro{
+    display:block;
+    box-sizing:border-box;
+    height:fit-content;
+    width: 600px;
+    padding:15px;
+    margin:0 auto;
+    text-align:center;
+}
+
+.intro.lasagna{
+    border:3px dotted rgb(240, 155, 124);
+    }
+
+.intro.vitello{
+    border:3px dotted rgb(111, 111, 204);
+}
+
+.intro.macarons{
+    border:3px dotted rgb(211, 106, 141);
+}
+
+
+.intro img{
+    height:350px;
+    width:auto;
+}
+
+.box{
+    box-sizing: border-box;
+    display:block;
+    border: 2px solid black;
+    height:fit-content;
+    width: 1000px;
+    margin:40px;
+    padding:40px 50px; 
+   }
+
+   .box.lasagna{
+    background-color: rgb(240, 155, 124);
+   }
+
+   .box.vitello{
+    background-color:rgb(111, 111, 204) ;
+   }
+
+   .box.macarons{
+    background-color: rgb(154, 219, 174);
+   }
+
+   .box img{
+    display:block;
+    padding:10px;
+    margin:0 auto;
+   }
+
+   h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+    font-size: 25px;
+   }
+
+   h1.vit{
+    color:rgb(111, 111, 204);
+   }
+
+   h1.mac{
+    color:rgb(102, 214, 102)
+   }
+
+   h1.las{
+    color:rgb(240, 155, 124);
+   }
+
+.recipes{
+    display:block;
+    width:fit-content;
+    padding:50px;
+    margin:50px auto;
+    border:3px solid rgb(240, 194, 133);
+    text-align:left;
+}
