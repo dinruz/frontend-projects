@@ -1,0 +1,151 @@
+
+/*--- Global Styles ---*/
+
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/Inter-VariableFont_slnt,wght.ttf') format('truetype-variations'); 
+    font-weight: 100 900; 
+    font-display: swap;
+}
+
+:root{
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey-700: hsl(0, 0%, 20%);
+    --grey-800: hsl(0, 0%, 12%);
+    --grey-900: hsl(0, 0%, 8%);
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+    min-height:100vh;
+    width:100%;
+    justify-content:center;
+    align-items:center;
+    background-color: var(--grey-900);
+    font-family:'Inter',Verdana,sans-serif;
+    font-size:14px;
+    font-weight:600;
+    color:var(--white);
+}
+
+a {
+    text-decoration:none;
+    
+}
+
+
+/*--- Main Components ---*/
+
+.main{
+    justify-content:center;
+    align-items:center;
+    display:flex;
+    flex:1;
+}
+
+.card{
+    display:flex;
+    flex-direction:column;
+    width: 380px;
+    height: 610px;
+    margin-top: 70px;
+    margin-bottom: 40px; 
+    background-color:var(--grey-800);
+    border-radius:10px;
+    padding: 20px;
+    text-align: center; 
+}
+
+/*--- Info Section ---*/
+
+.info{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.card img{
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    margin:15px;
+}
+
+.info__name{
+    font-size:24px;
+    font-weight:600;
+}
+
+.info__location{
+    color:var(--green);
+}
+
+.info__quote{
+    font-weight:400;
+    margin-top:16px;
+    margin-bottom:10px;
+}
+    
+
+
+/*--- Social media links ---*/
+
+.links__github,
+.links__fem,
+.links__linkedin,
+.links__twitter,
+.links__ig {
+    background-color:var(--grey-700);
+    margin:15px;
+    padding: 15px 0;
+    border-radius:10px;
+}
+
+.links__github:active,
+.links__fem:active,
+.links__linkedin:active,
+.links__twitter:active,
+.links__ig:active {
+    background-color:var(--green);
+    
+}
+
+.links__github:active a,
+.links__fem:active a,
+.links__linkedin:active a,
+.links__twitter:active a,
+.links__ig:active a {
+    color: var(--grey-900); 
+}
+
+a:link, a:visited{
+    color:var(--white);
+}
+
+a:hover, a:focus{
+    color:var(--green);
+}
+
+/*--- Attribution ---*/
+
+.attribution{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:10px 0;
+    font-size:11px;
+    font-weight:400;
+    color:var(--grey-700);
+    text-align:center;
+}
