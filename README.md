@@ -66,24 +66,26 @@ Projects focus on semantic HTML, advanced CSS (Flexbox/Grid), interactive JavaSc
 
 ## 🧩 Projects
 
-### The Odin Project
+## The Odin Project
 
-| # | Project | Description | Core Skills | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| 01 | **Odin Recipes** | Multi-page recipe site | Semantic HTML | [Repo](...) / [Live](...) |
-| 02 | **Landing Page** | Responsive marketing page | Flexbox & Layouts | [Repo](...) / [Live](...) |
-| 03 | **Rock Paper Scissors** | Interactive logic game | JS & UI Updates | [Repo](...) / [Live](...) |
-| 04 | **Etch-a-Sketch** | Dynamic drawing board | DOM Manipulation | [Repo](...) / [Live](...) |
+| # | Project | Preview | Description | Core Skills | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | **Odin Recipes** | <img src="./assets/recipes.png" width="160"> | Multi-page recipe site | Semantic HTML | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/01-recipes) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/01-recipes/) |
+| 02 | **Landing Page** | <img src="./assets/landing-page.png" width="160"> | Responsive marketing page | Flexbox & Layouts | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/02-landing-page) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/02-landing-page/) |
+| 03 | **Rock Paper Scissors** | <img src="./assets/rps.png" width="160"> | Interactive logic game | JS & UI Updates | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/03-rock-paper-scissors) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/03-rock-paper-scissors/) |
+| 04 | **Etch-a-Sketch** | <img src="./assets/etch-a-sketch.png" width="160"> | Dynamic drawing board | DOM Manipulation | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/04-etch-a-sketch) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/04-etch-a-sketch/) |
 
+---
 
-### Frontend Mentor Challenges
+## Frontend Mentor Challenges
 
-| # | Project | Description | Core Skills | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| 01 | **QR Code Component** | Simple QR card | HTML/CSS Basics | [Repo](...) / [Live](...) |
-| 02 | **Blog Preview Card** | Card with hover states | Typography & Layout | [Repo](...) / [Live](...) |
-| 03 | **Recipe Page** | Content organization | CSS Lists & Styling | [Repo](...) / [Live](...) |
-| 04 | **Social Links Profile** | Personal profile links | Flexbox Centering | [Repo](...) / [Live](...) |
+| # | Project | Preview | Description | Core Skills | Links |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | **QR Code Component** | <img src="./assets/qr-code.png" width="160"> | Simple QR card | HTML/CSS Basics | [Repo](https://github.com/dinruz/frontend-projects/tree/main/frontend-mentor/01-qr-code-component) / [Live](https://dinruz.github.io/frontend-projects/frontend-mentor/01-qr-code-component/) |
+| 02 | **Blog Preview Card** | <img src="./assets/blog-preview.png" width="160"> | Card with hover states | Typography & Layout | [Repo](https://github.com/dinruz/frontend-projects/tree/main/frontend-mentor/02-blog-preview-card) / [Live](https://dinruz.github.io/frontend-projects/frontend-mentor/02-blog-preview-card/) |
+| 03 | **Recipe Page** | <img src="./assets/fm-recipe.png" width="160"> | Content organization | CSS Lists & Styling | [Repo](https://github.com/dinruz/frontend-projects/tree/main/frontend-mentor/03-recipe-page) / [Live](https://dinruz.github.io/frontend-projects/frontend-mentor/03-recipe-page/) |
+| 04 | **Social Links Profile** | <img src="./assets/social-links.png" width="160"> | Personal profile links | Flexbox Centering | [Repo](https://github.com/dinruz/frontend-projects/tree/main/frontend-mentor/04-social-links-profile) / [Live](https://dinruz.github.io/frontend-projects/frontend-mentor/04-social-links-profile/) |
+
 
 ## 🛠️ Tech Stack 
 
