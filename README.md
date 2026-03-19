@@ -70,10 +70,10 @@ Projects focus on semantic HTML, advanced CSS (Flexbox/Grid), interactive JavaSc
 
 | # | Project | Preview | Description | Core Skills | Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | **Odin Recipes** | <img src="./assets/recipes.png" width="160"> | Multi-page recipe site | Semantic HTML | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/01-recipes) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/01-recipes/) |
+| 01 | **Odin Recipes** | <img src="./assets/recipes.jpg" width="160"> | Multi-page recipe site | Semantic HTML | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/01-recipes) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/01-recipes/) |
 | 02 | **Landing Page** | <img src="./assets/landing-page.png" width="160"> | Responsive marketing page | Flexbox & Layouts | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/02-landing-page) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/02-landing-page/) |
-| 03 | **Rock Paper Scissors** | <img src="./assets/rps.png" width="160"> | Interactive logic game | JS & UI Updates | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/03-rock-paper-scissors) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/03-rock-paper-scissors/) |
-| 04 | **Etch-a-Sketch** | <img src="./assets/etch-a-sketch.png" width="160"> | Dynamic drawing board | DOM Manipulation | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/04-etch-a-sketch) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/04-etch-a-sketch/) |
+| 03 | **Rock Paper Scissors** | <img src="./assets/rps.jpg" width="160"> | Interactive logic game | JS & UI Updates | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/03-rock-paper-scissors) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/03-rock-paper-scissors/) |
+| 04 | **Etch-a-Sketch** | <img src="./assets/etch-a-sketch.jpg" width="160"> | Dynamic drawing board | DOM Manipulation | [Repo](https://github.com/dinruz/frontend-projects/tree/main/the-odin-project/04-etch-a-sketch) / [Live](https://dinruz.github.io/frontend-projects/the-odin-project/04-etch-a-sketch/) |
 
 ---
 
@@ -92,9 +92,10 @@ Projects focus on semantic HTML, advanced CSS (Flexbox/Grid), interactive JavaSc
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Perfect Pixel](https://img.shields.io/badge/UI-Perfect%20Pixel-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-orange?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Perfect Pixel](https://img.shields.io/badge/Perfect%20Pixel-blue?style=for-the-badge)
 
 ## 📚 Resources
 
